@@ -16,3 +16,8 @@ Ford](https://github.com/btford).
 ## License
 
 BSD
+
+## Other Implementations
+
+- [AngularJS](https://github.com/gdi2290/angular-pokemon)
+- [Ember](http://emberjs.jsbin.com/AYegOHI/1/edit)
