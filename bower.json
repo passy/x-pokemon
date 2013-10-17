@@ -1,0 +1,26 @@
+{
+  "name": "x-pokemon",
+  "version": "0.0.0",
+  "authors": [
+    "Pascal Hartig <passy@twitter.com>"
+  ],
+  "description": "A web component to display Pokemons",
+  "main": "x-pokemon.html",
+  "keywords": [
+    "pokemon",
+    "web-components",
+    "polymer"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/passy/x-pokemon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.0.20131010"
+  }
+}
