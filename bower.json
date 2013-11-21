@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "v0.0.20131025"
+    "polymer": "0.0.20131107"
   }
 }
