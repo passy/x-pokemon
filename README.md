@@ -4,7 +4,7 @@ A web component built with [Polymer](http://polymer-project.org) to display Pok√
 Based on an [AngularJS Directive](http://plnkr.co/edit/xfRpUhIjGTC7g4Pi75kj?p=preview)
 by [Brian Ford](https://github.com/btford).
 
-## [Demo](http://passy.github.io/x-pokemon/)
+## [Demo](http://passy.github.io/x-pokemon/demo.html)
 
 ## Usage
 
