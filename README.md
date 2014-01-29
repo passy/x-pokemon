@@ -23,3 +23,4 @@ BSD
 
 - [AngularJS](https://github.com/gdi2290/angular-pokemon)
 - [Ember](http://emberjs.jsbin.com/AYegOHI/1/edit)
+- [React](https://github.com/passy/react-pokemon)
