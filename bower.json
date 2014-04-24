@@ -1,6 +1,6 @@
 {
   "name": "x-pokemon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     "Pascal Hartig <passy@twitter.com>"
   ],
@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "0.1.1"
+    "polymer": "0.2.2"
   }
 }
