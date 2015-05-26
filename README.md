@@ -16,6 +16,7 @@ by [Brian Ford](https://github.com/btford).
 ```
 
 ## License
+<a id="hidden-ref"></a>
 
 BSD
 
