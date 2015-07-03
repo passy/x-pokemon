@@ -16,7 +16,7 @@
 
 <polymer-element name="x-pokemon" attributes="name">
     <template>
-        <img class="pokemon" alt="{{name}}" src="http://img.pokemondb.net/artwork/{{name}}.jpg">
+        <img class="pokemon" alt="{{name}}" src="http://img.pokemondb.net/artwork/{{name | toLowerCase}}.jpg">
     </template>
     <script>
         Polymer('x-pokemon', {
@@ -27,7 +27,12 @@
              * @type string
              * @default ''
              */
-            name: ''
+            name: '',
+            toLowerCase: function(value) {
+                if (value) {
+                  return value.toLowerCase();
+                }
+            }
         });
     </script>
 </polymer-element>
