@@ -1,4 +1,8 @@
 # x-pokemon
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/passy/x-pokemon/pulls) 
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+[![GitHub issues](https://img.shields.io/github/issues-raw/passy/x-pokemon?logo=github)](https://github.com/passy/x-pokemon/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/passy/x-pokemon?logo=git)](https://github.com/passy/x-pokemon/pulls)
 
 A web component built with [Polymer](http://polymer-project.org) to display Pokémon.
 Based on an [AngularJS Directive](http://plnkr.co/edit/xfRpUhIjGTC7g4Pi75kj?p=preview)
